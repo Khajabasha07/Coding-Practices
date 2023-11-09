@@ -1,0 +1,21 @@
+
+.btn-section{
+    
+}
+.btn{
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 6px;
+}
+.btn1{
+    background-color: #eab308;
+}
+
+.btn2{
+    background-color: #ffffff;
+}
+
+.btn3{
+    background-color: #1d4ed8;
+}
